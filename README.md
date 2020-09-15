@@ -1,4 +1,4 @@
-<h2>Hi, I'm Jason Sudipta! <img src="https://github.githubassets.com/images/mona-whisper.gif" width="50"></h2>
+<h2>Hi, I'm Sudipta! <img src="https://github.githubassets.com/images/mona-whisper.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br/>
 <a href="https://twitter.com/SudiptaPradha20">
