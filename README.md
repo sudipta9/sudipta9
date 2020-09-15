@@ -15,7 +15,7 @@
 
 ### Hi 🙋‍♂️,
 
-### I'm 18 years old Self-taught developer, technical support engineer from India.
+### I'm 18 years old Self-taught developer, technical support engineering Student from India.
 
 <br/>
 
