@@ -35,6 +35,9 @@
 <a href="https://github.com/MartinHeinz/sudipta9">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudipta9&repo=gtk_practice_1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<a href="https://github.com/MartinHeinz/sudipta9">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudipta9&repo=auto_tor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 <br />
 
