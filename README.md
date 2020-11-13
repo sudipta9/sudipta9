@@ -1,67 +1,68 @@
-<h2>Hi, I'm Sudipta! <img src="https://github.githubassets.com/images/mona-whisper.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<br/>
+# Hi, I am Sudipta <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></h1>
+
+<img src="./assets/banner.png" alt="Sudipta Pradhan - software engineer, content creator and Learner alongside a cartoon illustration">
+
+**About Me**
+
+<img src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif" align="right" height="150">
+
+I'm a Student of Information Tcehnology, who is passionate about making open-source more accessible, creating technology to elevate people, and building community. I am learning, Machine Learning and Deep Learning, client side and server side Python and javascript programming which includes [Tensorflow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [node js](https://nodejs.org/) or any other frameworks. Some technologies I enjoy working with Pyhton ❤, HTML5, CSS3, Javascript, SQL and Javascript include ReactJS, React Native and GraphQL.
+
+- 🌱 I’m currently learning more about <b>Full Stack Development</b>.
+- 🤔 I’m looking for help with <b>Open Source Development</b>.
+- 💬 Ask me about anything, I am happy to help;
+- 😄 Pronouns: He/His
+- 📝[Resume](https://www.sudipta.digital/about)
+
+**Contact Me**
+</br>
+</br>
 <a href="https://twitter.com/SudiptaPradha20">
-  <img align="left" alt="Sudipta Twitter| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="Sudipta Sharma | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/_dustusp_/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="Sudipta's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/dustu95">
+<img align="left" alt="Sudipta's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.linkedin.com/in/sudipta-pradhan-230817174/">
+<img align="left" alt="Sudipta's LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/sudipta9">
-  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
+<img align="left" alt="Sudipta's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" />
 </a>
-<br/>
-<br/>
+</br>
+</br>
 
-### Hi 🙋‍♂️,
+**Languages and Tools:**
+</br>
+</br>
 
-### I'm 18 years old Self-taught developer, technical support engineering Student from India.
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
-<br/>
+## Some of my Github Stats
 
-**I am Into , 🙏**
-<br/>
-**Machine Learning, Web Development, data visualization, Cloud Computing, Linux System, Design & Programming**
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=sudipta9&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/tkssharma)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=sudipta9&layout=compact)](https://github.com/tkssharma)
 
-<br/>
+## Publications
 
-<a href="https://github.com/sudipta9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipta9&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/sudipta9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudipta9&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+Articles I've written for developer publications.
 
-<a href="https://github.com/MartinHeinz/sudipta9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudipta9&repo=gtk_practice_1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/MartinHeinz/sudipta9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudipta9&repo=auto_tor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<br />
-
----
-
-<br />
-
-### Languages and Tools...
-
-<p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- </p>
- <p align="center">
- <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
-<br/><br/>
-</p>
-
----
-
-#### Thank You-🙏🏼
-
-<p>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Sudipta9" alt="visitor badge"/>
-</p>
+- [Website](https://www.sudiptapradhan.digital)
