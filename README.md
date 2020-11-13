@@ -17,21 +17,26 @@ I'm a Student of Information Tcehnology, who is passionate about making open-sou
 **Contact Me**
 </br>
 </br>
+<code>
 <a href="https://twitter.com/SudiptaPradha20">
 <img align="left" alt="Sudipta Sharma | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+</a></code>
+<code>
 <a href="https://www.instagram.com/_dustusp_/">
 <img align="left" alt="Sudipta's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a></code>
+<code>
 <a href="https://www.facebook.com/dustu95">
 <img align="left" alt="Sudipta's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+</a></code>
+<code>
 <a href="https://www.linkedin.com/in/sudipta-pradhan-230817174/">
 <img align="left" alt="Sudipta's LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a></code>
+<code>
 <a href="https://github.com/sudipta9">
 <img align="left" alt="Sudipta's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" />
-</a>
+</a></code>
 </br>
 </br>
 
