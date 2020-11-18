@@ -6,7 +6,7 @@
 
 <img src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif" align="right" height="150">
 
-I'm a Student of Information Tcehnology, who is passionate about making open-source more accessible, creating technology to elevate people, and building community. I am learning, Machine Learning and Deep Learning, client side and server side Python and javascript programming which includes [Tensorflow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [node js](https://nodejs.org/) or any other frameworks. Some technologies I enjoy working with Pyhton ❤, HTML5, CSS3, Javascript, SQL and Javascript include ReactJS, React Native and GraphQL.
+I'm a Student of Information Tcehnology, I am passionate about making open-source more accessible, creating technology to elevate people, and building community. I am learning, Machine Learning and Deep Learning, client side and server side Python and javascript programming which includes [Tensorflow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [node js](https://nodejs.org/) or any other frameworks. Some technologies I enjoy working with Pyhton ❤, HTML5, CSS3, Javascript, SQL and Javascript include ReactJS, React Native and GraphQL.
 
 - 🌱 I’m currently learning more about <b>Full Stack Development</b>.
 - 🤔 I’m looking for help with <b>Open Source Development</b>.
