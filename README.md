@@ -12,7 +12,7 @@ I'm a Student of Information Tcehnology, I am passionate about making open-sourc
 - 🤔 I’m looking for help with <b>Open Source Development</b>.
 - 💬 Ask me about anything, I am happy to help;
 - 😄 Pronouns: He/His
-- 📝[Resume](https://www.sudipta.digital/about)
+- 📝[Portfolio](https://www.sudiptapradhan.digital/p/about.html)
 
 **Contact Me**
 </br>
