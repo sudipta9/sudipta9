@@ -18,7 +18,7 @@ I'm a Student of Information Tcehnology, I am passionate about making open-sourc
 </br>
 </br>
 <a href="https://twitter.com/SudiptaPradha20">
-<img align="left" alt="Sudipta Sharma | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="Sudipta Pradhan | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/_dustusp_/">
 <img align="left" alt="Sudipta's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -58,8 +58,8 @@ I'm a Student of Information Tcehnology, I am passionate about making open-sourc
 
 ## Some of my Github Stats
 
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=sudipta9&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/tkssharma)
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=sudipta9&layout=compact)](https://github.com/tkssharma)
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=sudipta9&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/sudipta9)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=sudipta9&layout=compact)](https://github.com/sudipta9)
 
 ## Publications
 
