@@ -18,7 +18,7 @@ I'm a Student of Information Tcehnology, I am passionate about making open-sourc
 </br>
 </br>
 <a href="https://twitter.com/SudiptaPradha20">
-<img align="left" alt="Sudipta Pradhan | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="Sudipta Pradhan | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/_dustusp_/">
 <img align="left" alt="Sudipta's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
