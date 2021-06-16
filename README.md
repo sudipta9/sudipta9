@@ -26,7 +26,7 @@ I'm a Student of Information Tcehnology, I am passionate about making open-sourc
 <a href="https://www.facebook.com/dustu95">
 <img align="left" alt="Sudipta's Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/sudipta-pradhan-230817174/">
+<a href="https://www.linkedin.com/in/sudipta-pradhan/">
 <img align="left" alt="Sudipta's LinkdeIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/sudipta9">
