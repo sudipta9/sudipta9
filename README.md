@@ -6,7 +6,7 @@
 
 <img src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif" align="right" height="150">
 
-I'm a Student of Information Tcehnology, I am passionate about making open-source more accessible, creating technology to elevate people, and building community. I am learning, Machine Learning and Deep Learning, client side and server side Python and javascript programming which includes [Tensorflow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [node js](https://nodejs.org/) or any other frameworks. Some technologies I enjoy working with Pyhton ❤, HTML5, CSS3, Javascript, SQL and Javascript include ReactJS, React Native and GraphQL.
+I'm a Student of Information Tcehnology, I am passionate about making open-source more accessible, creating technology to elevate people, and building community. I am working on client side and server side javascript and python programming which includes [React.js](https://reactjs.org/), [express.js](https://expressjs.com/), [node.js](https://nodejs.org/) or some other frameworks. Some technologies I enjoy working with Javascript 💛, Pyhton, MYSQL and including React.js, express.js and RESTFUL API.
 
 - 🌱 I’m currently learning more about <b>Full Stack Development</b>.
 - 🤔 I’m looking for help with <b>Open Source Development</b>.
@@ -40,17 +40,13 @@ I'm a Student of Information Tcehnology, I am passionate about making open-sourc
 </br>
 
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Sass-092E20?style=for-the-badge&logo=Sass&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-<a href="#"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
 <a href="#"><img  src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /></a>
 <a href="#"><img height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Sass-092E20?style=for-the-badge&logo=Sass&logoColor=white" /></a>
 
 ## Some of my Github Stats
 
