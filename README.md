@@ -1,6 +1,6 @@
-# Hi, I am Sudipta <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></h1>
+# Hi, I am Sudipta <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" style="max-width:100%;"></h1>
 
-<img src="./assets/banner.png" alt="Sudipta Pradhan - software engineer, content creator and Learner alongside a cartoon illustration" height="50px">
+<img src="./assets/banner.png" alt="Sudipta Pradhan - software engineer, content creator and Learner alongside a cartoon illustration">
 
 **About Me**
 
