@@ -14,6 +14,8 @@ I'm a Student of Information Tcehnology, I am passionate about making open-sourc
 - 😄 Pronouns: He/His
 - 📝[Portfolio](https://www.sudiptapradhan.digital/p/about.html)
 
+[![@sudipta's Holopin board](https://holopin.io/api/user/board?user=sudipta)](https://holopin.io/@sudipta)
+
 **Contact Me**
 </br>
 </br>
