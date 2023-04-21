@@ -13,8 +13,6 @@ As a node.js developer with full-stack web development experience, my GitHub pro
 - 💬 Ask me about anything, I am happy to help;
 - 😄 Pronouns: He/His
 
-[![@sudipta's Holopin board](https://holopin.io/api/user/board?user=sudipta)](https://holopin.io/@sudipta)
-
 **Contact Me**
 </br>
 </br>
@@ -58,6 +56,8 @@ As a node.js developer with full-stack web development experience, my GitHub pro
 ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+[![@sudipta's Holopin board](https://holopin.io/api/user/board?user=sudipta)](https://holopin.io/@sudipta)
 
 ## Some of my Github Stats
 
